@@ -1,10 +1,13 @@
 @import 'reset';
 @import 'fonts';
 
+/*
 [data-contents="top-bar"] {
 	background-color: #0b1631;
 	height: 50px;
 	width: 100%;
+	position: fixed;
+	z-index: 999;
 	span {
 		color: #fc668d;
 		font-size: 35px;
@@ -18,15 +21,18 @@
 		}
 	}
 }
+*/
 [data-contents="main"] {
-	height: calc(100% - 50px);
+	height: calc(100%);
 	width: 100%;
 	position: fixed;
-	top: 50px;
+	top: 0;
 	left: 0;
 	[data-view]	{
 		height: 100%;
 		width: 100%;
+		position: absolute;
+		right: 100%;
 		background-size: cover !important;
 		background-repeat: no-repeat !important;
 		background-position-x: 50% !important;
@@ -34,7 +40,7 @@
 		.transparent {
 			height: 100px;
 			width: 280px;
-			position: absolute;
+			position: relative;
 			h2 {
 				font-size: 40px;
 				width: 350px;
@@ -47,6 +53,8 @@
 		.transparent{
 			background-color: rgba(94, 101, 119, .7);
 			top: 40%;
+			animation: textHorizontal 12s 0s infinite ease-in;
+			transform-origin: center;
 			h2 {
 				color: #a5ecdd; // rgba(165, 236, 221)
 				text-shadow: 4px -9px 0px rgba(165, 236, 221, 0.25);
@@ -59,6 +67,8 @@
 		background: url(../img/articles/2.png);
 		.transparent {
 			background-color: rgba(252, 102, 141, .7);
+			animation: textHorizontal 12s 0s infinite ease-in;
+			transform-origin: center;
 			top: 70%;
 			h2 {
 				color: #0b1631; // rgba(165, 236, 221)
@@ -69,13 +79,51 @@
 		background: url(../img/articles/3.png);
 		.transparent {
 			background-color: rgba(94, 101, 119, .7);
+			animation: textHorizontal 12s 0s infinite ease-in;
+			transform-origin: center;
 			top: 55%;
 			right: 0;
 			h2 {
 				color: #fc668d;
-				left: -6%;
+				left: 3%;
 				top: -20%;
 			}
 		}
 	}
+	.animation {
+		animation: showHide 4s 0s infinite ease-in;
+	}
+	a {
+		font-weight: 300;
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+		bottom: 10px;
+		color: white;
+		z-index: 2;
+		height: 50px;
+	}
+	img {
+		width: 50px;
+		position: absolute;
+		bottom: 0px;
+		left: 50%;
+		transform: translatex(-50%);
+	}
 }
+
+// animations
+
+	@keyframes textHorizontal {
+		0% { transform: rotateZ(10deg);}
+		15% { transform: translateX(5%); }
+		30% { transform: rotateZ(-5deg); }
+		90% { transform: translateX(2%) rotateZ(5deg); }
+		100% { transform: translateX(0%) rotateZ(7deg);}
+	}
+
+	@keyframes showHide {
+		5%, 95% { transform: translateX(100%); }
+		100% { transform: translateX(200%); }
+
+	}

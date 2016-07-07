@@ -49,3 +49,13 @@
         font-weight: 300;
         font-style: italic;
     }
+
+    @font-face {
+        font-family: 'Ardelaney';
+        src: url('fonts/ARDELANEY.eot');
+        src: url('fonts/ARDELANEY.eot?#iefix') format('embedded-opentype'),
+            url('fonts/ARDELANEY.woff') format('woff'),
+            url('fonts/ARDELANEY.ttf') format('truetype');
+        font-weight: 100;
+        font-style: normal;
+    }
