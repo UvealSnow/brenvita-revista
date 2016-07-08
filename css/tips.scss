@@ -2,23 +2,30 @@
 @import 'fonts';
 @import 'tip-scroll';
 
-[data-contents="main"] {
-	height: 100%;
-	width: 100%;
-	position: fixed;
-	top: 0;
-	left: 0;
-	background: url(../img/menu/tips.png);
+// [data-contents="cover"] {
+.cover {
 	background-color: rgba(165, 236, 221, 1);
+	overflow-y: hidden;
+	/*
+	background: url(../img/menu/tips.png);
 	background-size: cover !important;
 	background-repeat: no-repeat !important;
 	background-position-x: 50% !important;
-	background-position-y: 5% !important;
+	background-position-y: -130% !important;
+	*/
+
+	img.bg {
+		// height: 100%;
+		width: 55%;
+		position: absolute;
+		// top: -10px;
+	}
+	
 	[data-view] {
 		.transparent {
 			height: 100vh;
 			width: 100%;
-			position: fixed;
+			// position: fixed;
 			mix-blend-mode: multiply;
 			background-color: rgba(165, 236, 221, .45); // #a5ecdd
 		}
@@ -37,10 +44,12 @@
 			animation: move 4s 0s infinite ease-in;
 		}
 	}
+
 	a {
 		font-weight: 300;
 		position: absolute;
 		left: 50%;
+		// top: calc(100% - 150px);
 		transform: translateX(-50%);
 		bottom: 10px;
 		color: white;
@@ -52,6 +61,7 @@
 		position: absolute;
 		bottom: 0px;
 		left: 50%;
+		// top: calc(100% - 140px);
 		transform: translatex(-50%);
 	}
 }
@@ -61,4 +71,62 @@
 	@keyframes move {
 		0%, 50%, 100% { transform: rotateZ(3deg); }
 		25%, 75% { transform: rotateZ(-3deg); }
+	}
+
+// media queries
+
+	@media screen and (min-height: 530px) {
+		.cover {
+			img.bg {
+				width: 60%;
+			}
+		}
+	}
+
+	@media screen and (min-width: 768px) {
+		.cover {
+			img.bg {
+				width: 45%;
+			}
+			[data-view] {
+				h1 {
+					font-size: 105px;
+				}
+			}
+			a {
+				font-size: 30px;
+				bottom: 30px;
+			}
+		}
+		[data-contents="tips"] { 
+			[data-tip] {
+				hr {
+					border: 3px solid $strongPink;
+				}
+				.img-container {
+					height: 40vh;
+					width: 100%;
+				}
+				h3 {
+					float: right;
+					margin-top: 15px;
+					color: #fc668d;
+					width: 250px;
+					text-transform: uppercase;
+					font-size: 45px;
+					font-weight: bold;
+				}
+				p {
+					position: absolute;
+					left: 20px;
+					font-size: 35px;
+					top: 70%;
+					left: 50%;
+					color: #fc668d;
+					transform: translate(-50%, -50%);
+					width: 410px;
+					color: black;
+				}
+			}
+		}
 	}
