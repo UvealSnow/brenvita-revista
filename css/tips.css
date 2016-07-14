@@ -113,6 +113,12 @@ p {
   font-style: normal; }
 @font-face {
   font-family: 'Gotham';
+  src: url("fonts/Gotham-Black.eot");
+  src: url("fonts/Gotham-Black.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black.woff") format("woff"), url("fonts/Gotham-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham';
   src: url("fonts/GothamMedium.eot");
   src: url("fonts/GothamMedium.eot?#iefix") format("embedded-opentype"), url("fonts/GothamMedium.woff") format("woff"), url("fonts/GothamMedium.ttf") format("truetype");
   font-weight: 500;
@@ -253,6 +259,12 @@ p {
   src: url("fonts/GothamBold.eot");
   src: url("fonts/GothamBold.eot?#iefix") format("embedded-opentype"), url("fonts/GothamBold.woff") format("woff"), url("fonts/GothamBold.ttf") format("truetype");
   font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/Gotham-Black.eot");
+  src: url("fonts/Gotham-Black.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black.woff") format("woff"), url("fonts/Gotham-Black.ttf") format("truetype");
+  font-weight: 900;
   font-style: normal; }
 @font-face {
   font-family: 'Gotham';
@@ -447,5 +459,4 @@ p {
             transform: translate(-50%, -50%);
     width: 410px;
     color: black; } }
-
 /*# sourceMappingURL=tips.css.map */
