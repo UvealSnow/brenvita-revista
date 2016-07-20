@@ -150,16 +150,50 @@ p {
 html,
 body {
   height: 100%;
-  width: 100%; }
+  width: 100%;
+  overflow: hidden; }
 
 .background {
-  overflow: hidden;
   height: 100%;
-  width: 100%; }
+  width: 100%;
+  z-index: 0;
+  position: fixed;
+  top: 0;
+  left: 0; }
+  .background .overlay {
+    background-color: #0b1631;
+    background: -webkit-linear-gradient(315deg, #0b1631 0%, rgba(11, 22, 49, 0.09) 68.28%, rgba(11, 22, 49, 0) 75%);
+    background: linear-gradient(135deg, #0b1631 0%, rgba(11, 22, 49, 0.09) 68.28%, rgba(11, 22, 49, 0) 75%);
+    opacity: 0.66;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; }
   .background img {
-    height: 150%; }
+    height: 100%;
+    position: relative; }
+
+#date {
+  position: fixed;
+  top: 36px;
+  left: 36px;
+  font-size: 14px;
+  color: white;
+  font-weight: 300; }
 
 #title {
+  font-size: 48px;
+  left: 36px;
+  top: 72px;
+  color: white;
+  width: calc(100% - 72px);
+  text-transform: uppercase; }
+  #title div {
+    font-weight: 300; }
+
+#brenvita {
   position: fixed;
   left: 36px;
   bottom: 36px;
@@ -167,8 +201,9 @@ body {
   font-size: 48px;
   letter-spacing: 4px;
   color: #a5ecdd;
-  font-weight: 900; }
-  #title div {
+  font-weight: 900;
+  z-index: 2; }
+  #brenvita div {
     font-weight: 900; }
 
 /*# sourceMappingURL=cover.css.map */

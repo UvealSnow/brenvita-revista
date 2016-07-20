@@ -6,17 +6,55 @@ html,
 body {
 	height:100%; 
 	width:100%; 
+	overflow:hidden; 
 }
 
 .background {
-	overflow:hidden; 
 	height:100%; 
 	width:100%; 
+	z-index:0;
+	position:fixed; 
+	top:0; 
+	left:0;
+	.overlay {
+		// background-color:#fc668d; 
+		background-color:#0b1631; 
+		background: linear-gradient(135deg, rgba(11, 22, 49, 1) 0%, rgba(11, 22, 49, 0.09) 68.28%, rgba(11, 22, 49, 0) 75%);
+		opacity: 0.66;
+		height:100%; 
+		width:100%; 
+		position:absolute; 
+		top:0; 
+		left:0; 
+		// opacity:.66;
+		z-index:1;
+	}
 	img { 
-		height:150%;
+		height:100%;
+		position:relative;
 	}
 }
+#date {
+	position:fixed; 
+	top:36px; 
+	left:36px; 
+	font-size:14px; 
+	color:white;
+	font-weight:300;
+}
 #title {
+	font-size:48px; 
+	left:36px; 
+	top:72px;
+	color:white;
+	width:calc(100% - 72px);
+	text-transform:uppercase;
+	// color:
+	div {
+		font-weight:300;
+	}
+}
+#brenvita {
 	position:fixed; 
 	left:36px; 
 	bottom:36px; 
@@ -25,6 +63,7 @@ body {
 	letter-spacing:4px;
 	color:$blue;
 	font-weight:900; 
+	z-index:2;
 	div {
 		font-weight:900;
 	}

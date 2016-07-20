@@ -1,0 +1,68 @@
+@import  "colors";
+@import  "reset";
+
+html, 
+body {
+	height:100%; 
+	width:100%;
+	overflow:hidden;
+}
+#background {
+	height:100%;
+	width:100%; 
+	position:fixed; 
+	top:0; 
+	left:0; 
+	background-size:cover; 
+	background-position:center center; 
+	z-index:0;
+	background:$strongPink; 
+	#image {
+		height:100%; 
+		width:100%; 
+		position:absolute; 
+		top:0; 
+		left:0; 
+		background:url("../img/intro.png");
+		z-index:1;
+		background-size:auto 80%;
+		background-repeat:no-repeat;
+		background-position: center bottom;
+	}
+	#overlay {
+		// background-color:#fc668d; 
+		background-color:#0b1631; 
+		background: linear-gradient(30deg, rgba(11, 22, 49, 1) 0%, rgba(11, 22, 49, 0) 100%);
+		opacity: 0.93;
+		height:100%; 
+		width:100%; 
+		position:absolute; 
+		top:0; 
+		left:0; 
+		// opacity:.66;
+		z-index:2;
+	}
+}
+#intro { 
+	height:100%; 
+	width:100%; 
+	display:flex; 
+	flex-direction:column; 
+	justify-content:flex-start; 
+	align-items:center; 
+	position:relative; 
+	z-index:1;
+	p {
+		width:100%; 
+		box-sizing:border-box; 
+		padding:36px; 
+		font-size:18px; 
+		line-height:150%;
+		span {
+			font-weight:900; 
+			font-size:36px; 
+			letter-spacing: 4px;
+		}
+	}
+
+}

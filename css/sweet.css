@@ -172,6 +172,7 @@ p {
     font-size: 55px;
     font-weight: bold;
     position: absolute;
+    padding-top: 144px;
     top: 40%;
     max-width: 320px;
     left: calc(50% - 160px);

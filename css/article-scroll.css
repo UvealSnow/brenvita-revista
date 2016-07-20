@@ -153,6 +153,7 @@ p {
   [data-contents] * {
     color: black; }
   [data-contents] [data-view] {
+    border-top: solid 16px #fc668d;
     height: 100%;
     width: 100%;
     display: -webkit-box;
@@ -215,7 +216,6 @@ p {
     background-position: center center;
     background-repeat: no-repeat;
     height: 100%;
-    max-height: 0;
     overflow: hidden; }
     [data-contents] [data-view="2"] svg {
       position: absolute;
@@ -239,7 +239,6 @@ p {
     background-position: center center;
     background-repeat: no-repeat;
     height: 100%;
-    max-height: 0;
     overflow: hidden; }
     [data-contents] [data-view="3"] svg {
       position: absolute;
