@@ -8,7 +8,7 @@
   padding: 24px;
   z-index: 1; }
   .recipe-intro h4 {
-    font-size: 48px;
+    font-size: 40px;
     max-width: 80%;
     font-weight: bold;
     position: relative;
@@ -146,6 +146,8 @@
     margin-bottom: 24px; }
     .recipe .title * {
       font-weight: bold; }
+    .recipe .title h2 {
+      font-size: 38px; }
   .recipe .description {
     -webkit-flex-shrink: 0;
         -ms-flex-negative: 0;
@@ -154,7 +156,7 @@
     margin-bottom: 24px; }
     .recipe .description * {
       font-weight: 300;
-      font-size: 14px;
+      font-size: 16px;
       line-height: 150%; }
   .recipe .media {
     -webkit-flex-shrink: 0;
@@ -185,7 +187,7 @@
     .recipe .ingredients ul, .recipe .ingredients li {
       color: #333333;
       font-weight: 300;
-      font-size: 14px;
+      font-size: 16px;
       line-height: 150%;
       list-style-type: none; }
     .recipe .ingredients li {
@@ -208,7 +210,7 @@
       color: #333333;
       list-style-type: none;
       font-weight: 300;
-      font-size: 14px;
+      font-size: 16px;
       line-height: 150%; }
     .recipe .process li {
       margin-bottom: 8px; }

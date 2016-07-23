@@ -10,7 +10,7 @@
 	padding:24px;
 	z-index:1;
 	h4 {
-		font-size:48px;
+		font-size:40px;
 		max-width:80%;
 		// color:#3C455A;
 		font-weight:bold;
@@ -123,12 +123,15 @@
 		text-transform:uppercase;
 		margin-bottom:24px;
 		* { font-weight:bold; }
+		h2 {
+			font-size: 38px;
+		}
 	}	
 	.description {
 		flex-shrink:0;
 		color:#333333;
 		margin-bottom:24px;
-		* { font-weight: 300; font-size:14px; line-height:150%; }
+		* { font-weight: 300; font-size:16px; line-height:150%; }
 	}
 	.media {
 		flex-shrink:0;
@@ -159,7 +162,7 @@
 		ul, li {
 			color:#333333;
 			font-weight: 300; 
-			font-size:14px; 
+			font-size:16px; 
 			line-height:150%;
 			list-style-type: none;
 		}
@@ -186,7 +189,7 @@
 			color:#333333;
 			list-style-type: none;
 			font-weight: 300; 
-			font-size:14px; 
+			font-size:16px; 
 			line-height:150%;
 		}
 		li {
