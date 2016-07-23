@@ -103,7 +103,7 @@ h6 {
   font-size: 18px; }
 
 p {
-  font-size: 21px; }
+  font-size: 18px; }
 
 @font-face {
   font-family: 'Gotham';
@@ -159,7 +159,8 @@ body {
   z-index: 0;
   position: fixed;
   top: 0;
-  left: 0; }
+  left: 0;
+  background-color: #fc668d; }
   .background .overlay {
     background-color: #0b1631;
     background: -webkit-linear-gradient(315deg, #0b1631 0%, rgba(11, 22, 49, 0.09) 68.28%, rgba(11, 22, 49, 0) 75%);
@@ -184,7 +185,7 @@ body {
   font-weight: 300; }
 
 #title {
-  font-size: 48px;
+  font-size: 9vw;
   left: 36px;
   top: 72px;
   color: white;
@@ -198,7 +199,7 @@ body {
   left: 36px;
   bottom: 36px;
   text-transform: uppercase;
-  font-size: 48px;
+  font-size: 10vw;
   letter-spacing: 4px;
   color: #a5ecdd;
   font-weight: 900;
