@@ -1,0 +1,210 @@
+body {
+  font-family: 'Gotham';
+  color: #fff; }
+
+.hidden {
+  display: none;
+  opacity: 0; }
+
+a {
+  text-decoration: none;
+  color: initial; }
+
+/*  FLEXIE FRAMEWORK    */
+/*  PABLO E. LUJAMBIO   */
+/*  RESET               */
+/* This part resets several stylesheet characteristics that are practical to reset. */
+* {
+  -webkit-tap-highlight-color: transparent;
+  outline: 0;
+  margin: 0 0;
+  padding: 0 0;
+  width: auto;
+  height: auto;
+  text-decoration: none;
+  font-weight: normal;
+  background: none;
+  border: medium none;
+  border-spacing: 0;
+  font-weight: normal;
+  text-decoration: none;
+  text-indent: 0;
+  box-sizing: border-box;
+  position: relative; }
+
+section {
+  display: block; }
+
+a {
+  color: #FAFAFA; }
+
+html,
+body {
+  height: 100%;
+  width: 100%; }
+
+title, script {
+  display: none; }
+
+span {
+  margin: 0;
+  padding: 0; }
+
+/* INPUT FORMS RESET */
+textarea,
+select,
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="email"],
+input[type="month"],
+input[type="number"],
+input[type="password"],
+input[type="search"],
+input[type="tel"],
+input[type="text"],
+input[type="time"],
+input[type="url"],
+input[type="week"] {
+  box-sizing: border-box;
+  background-clip: padding-box;
+  border-radius: 0;
+  background-color: none;
+  color: none;
+  outline: 0;
+  margin: none;
+  padding: none;
+  text-align: left;
+  font-size: 1em;
+  height: auto;
+  vertical-align: middle;
+  border-width: none; }
+
+input:not([type="checkbox"]) {
+  -webkit-appearance: none; }
+
+/*      FONT-SIZES      */
+h1 {
+  font-size: 72px; }
+
+h2 {
+  font-size: 56px; }
+
+h3 {
+  font-size: 48px; }
+
+h4 {
+  font-size: 36px; }
+
+h5 {
+  font-size: 24px; }
+
+h6 {
+  font-size: 18px; }
+
+p {
+  font-size: 18px; }
+
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/GothamBold.eot");
+  src: url("fonts/GothamBold.eot?#iefix") format("embedded-opentype"), url("fonts/GothamBold.woff") format("woff"), url("fonts/GothamBold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/Gotham-Black.eot");
+  src: url("fonts/Gotham-Black.eot?#iefix") format("embedded-opentype"), url("fonts/Gotham-Black.woff") format("woff"), url("fonts/Gotham-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/GothamMedium.eot");
+  src: url("fonts/GothamMedium.eot?#iefix") format("embedded-opentype"), url("fonts/GothamMedium.woff") format("woff"), url("fonts/GothamMedium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/GothamMedium-Italic.eot");
+  src: url("fonts/GothamMedium-Italic.eot?#iefix") format("embedded-opentype"), url("fonts/GothamMedium-Italic.woff") format("woff"), url("fonts/GothamMedium-Italic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/GothamLight.eot");
+  src: url("fonts/GothamLight.eot?#iefix") format("embedded-opentype"), url("fonts/GothamLight.woff") format("woff"), url("fonts/GothamLight.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+@font-face {
+  font-family: 'Gotham';
+  src: url("fonts/GothamLight-Italic.eot");
+  src: url("fonts/GothamLight-Italic.eot?#iefix") format("embedded-opentype"), url("fonts/GothamLight-Italic.woff") format("woff"), url("fonts/GothamLight-Italic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+@font-face {
+  font-family: 'Ardelaney';
+  src: url("fonts/ARDELANEY.eot");
+  src: url("fonts/ARDELANEY.eot?#iefix") format("embedded-opentype"), url("fonts/ARDELANEY.woff") format("woff"), url("fonts/ARDELANEY.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden; }
+
+.background {
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #fc668d; }
+  .background .overlay {
+    background-color: #0b1631;
+    background: -webkit-linear-gradient(315deg, #0b1631 0%, rgba(11, 22, 49, 0.09) 68.28%, rgba(11, 22, 49, 0) 75%);
+    background: linear-gradient(135deg, #0b1631 0%, rgba(11, 22, 49, 0.09) 68.28%, rgba(11, 22, 49, 0) 75%);
+    opacity: 0.66;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1; }
+  .background img {
+    height: 100%;
+    position: relative; }
+
+#date {
+  position: fixed;
+  top: 36px;
+  left: 36px;
+  font-size: 14px;
+  color: white;
+  font-weight: 300; }
+
+#title {
+  font-size: 9vw;
+  left: 36px;
+  top: 72px;
+  color: white;
+  width: calc(100% - 72px);
+  text-transform: uppercase; }
+  #title div {
+    font-weight: 300; }
+
+#brenvita {
+  position: fixed;
+  left: 36px;
+  bottom: 36px;
+  text-transform: uppercase;
+  font-size: 10vw;
+  letter-spacing: 4px;
+  color: #a5ecdd;
+  font-weight: 900;
+  z-index: 2; }
+  #brenvita div {
+    font-weight: 900; }
+
+/*# sourceMappingURL=cover.css.map */

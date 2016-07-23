@@ -1,0 +1,77 @@
+#nuva {
+	height:100%; 
+	width:100%; 
+	background:rgba(33,33,33,1);
+	// background: linear-gradient(135deg, rgba(11, 22, 49, .86) 0%, rgba(11, 22, 49, 0.14) 85.87%, rgba(11, 22, 49, 0) 100%);
+	overflow:hidden; 
+	display:flex; 
+	flex-direction:column; 
+	justify-content:center; 
+	align-items:center;
+	#logo { 
+		display:flex; 
+		flex-direction:row;
+		align-items:center; 
+		justify-content:center;
+		div {
+			overflow:hidden;
+		}
+		#glyph img{
+			height:48px;
+		}
+		#text img {
+			height:18px;
+			margin-left:12px;
+		}
+		#text {
+			max-width:0;
+		}
+	}
+	#info {
+		overflow:hidden; 
+		// max-height:0px;
+		// max-width:0px;
+		p {
+			width:300px;
+			margin-top:72px;
+			text-align:center;
+			div {
+				font-weight:300;
+				font-family: 'Gotham';
+			}
+		}
+	}
+	#media {
+		display:flex; 
+		flex-direction:row;
+		#facebook {
+			margin-top:24px;
+			img {
+				height:36px;
+			}
+		}
+		#instagram {
+			margin-top:24px;
+			margin-left:36px;
+			img {
+				height:36px;
+			}
+		}
+	}
+}
+// video#bgvid { 
+//     position: fixed;
+//     top: 50%;
+//     left: 50%;
+//     min-width: 100%;
+//     min-height: 100%;
+//     width: auto;
+//     height: auto;
+//     z-index: -100;
+//     -ms-transform: translateX(-50%) translateY(-50%);
+//     -moz-transform: translateX(-50%) translateY(-50%);
+//     -webkit-transform: translateX(-50%) translateY(-50%);
+//     transform: translateX(-50%) translateY(-50%);
+//     // background: url(polina.jpg) no-repeat;
+//     background-size: cover; 
+// }

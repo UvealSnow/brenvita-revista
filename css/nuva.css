@@ -1,0 +1,79 @@
+#nuva {
+  height: 100%;
+  width: 100%;
+  background: #212121;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  #nuva #logo {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center; }
+    #nuva #logo div {
+      overflow: hidden; }
+    #nuva #logo #glyph img {
+      height: 48px; }
+    #nuva #logo #text img {
+      height: 18px;
+      margin-left: 12px; }
+    #nuva #logo #text {
+      max-width: 0; }
+  #nuva #info {
+    overflow: hidden; }
+    #nuva #info p {
+      width: 300px;
+      margin-top: 72px;
+      text-align: center; }
+      #nuva #info p div {
+        font-weight: 300;
+        font-family: 'Gotham'; }
+  #nuva #media {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+            flex-direction: row; }
+    #nuva #media #facebook {
+      margin-top: 24px; }
+      #nuva #media #facebook img {
+        height: 36px; }
+    #nuva #media #instagram {
+      margin-top: 24px;
+      margin-left: 36px; }
+      #nuva #media #instagram img {
+        height: 36px; }
+
+/*# sourceMappingURL=nuva.css.map */
