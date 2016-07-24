@@ -79,6 +79,7 @@ $(document).ready(function() {
 
 	$(".recipe-intro")
 		.hammer({
+			touchAction: "initial",
 			recognizers: [
 				[Hammer.Swipe,{direction: Hammer.DIRECTION_ALL}]
 			]
@@ -86,7 +87,7 @@ $(document).ready(function() {
 		.bind("swipeup", introSwipeUp);
 	$(".recipe")
 		.hammer({
-			touchAction: "pan-y",
+			touchAction: "initial",
 			recognizers: [
 				[Hammer.Swipe,{direction: Hammer.DIRECTION_ALL}],
 				[Hammer.Pan,{direction: Hammer.DIRECTION_VERTICAL}, ['swipe']]
