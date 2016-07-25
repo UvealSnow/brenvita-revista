@@ -166,7 +166,9 @@ p {
   -webkit-box-align: center;
   -webkit-align-items: center;
       -ms-flex-align: center;
-          align-items: center; }
+          align-items: center;
+  padding: 18px;
+  box-sizing: border-box; }
   [data-contents="menu"] [data-link] {
     display: -webkit-box;
     display: -webkit-flex;
