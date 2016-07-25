@@ -148,7 +148,6 @@ p {
   font-weight: 100;
   font-style: normal; }
 [data-contents="tips"] {
-  position: absolute;
   top: 100%;
   left: 0;
   height: 100vh;
@@ -168,7 +167,9 @@ p {
       border: 3px solid #fc668d; }
     [data-contents="tips"] [data-tip] .img-container {
       height: 40vh;
-      width: 100%; }
+      width: 100%;
+      background-size: cover !important;
+      background-position: center center; }
     [data-contents="tips"] [data-tip] h3 {
       float: right;
       margin-top: 15px;
