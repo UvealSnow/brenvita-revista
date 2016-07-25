@@ -1,0 +1,1348 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"navbar",
+				"navbar-link	(application.html.erb)"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"admin",
+				"admin_signed_in"
+			],
+			[
+				"user_",
+				"user_signed_in"
+			],
+			[
+				"translate",
+				"translateY"
+			],
+			[
+				"javasc",
+				"javascript_include_tag	include javascript src	erb"
+			],
+			[
+				"script",
+				"javascript_tag	create javascript block	erb"
+			],
+			[
+				"align",
+				"align-items	(user_profile.scss)"
+			],
+			[
+				"poin",
+				"pointer-events"
+			],
+			[
+				"javas",
+				"javascript_include_tag	include javascript src	erb"
+			],
+			[
+				"photo",
+				"photo_two"
+			],
+			[
+				"mu",
+				"multi"
+			],
+			[
+				"conjuncti",
+				"conjunctiva_left	(ophtalmology_template.es.yml)"
+			],
+			[
+				"weight",
+				"weight_at_birth	(ophtalmology_template.es.yml)"
+			],
+			[
+				"ailments_dir",
+				"ailments_during_pregnancy_treatment	(ophtalmology_template.es.yml)"
+			],
+			[
+				"ophtalmolog",
+				"ophtalmology_templates	(schema.rb)"
+			],
+			[
+				"ophtal",
+				"ophtalmology_templates	(schema.rb)"
+			],
+			[
+				"java",
+				"javascript_include_tag	include javascript src	erb"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"family",
+				"family_diabetic_retinopathy	(en.yml)"
+			],
+			[
+				"fam",
+				"family_other	(en.yml)"
+			],
+			[
+				"famii",
+				"family_thyroid"
+			],
+			[
+				"insura",
+				"insurance_policy	(en.yml)"
+			],
+			[
+				"insurance",
+				"insurance_company	(en.yml)"
+			],
+			[
+				"authenti",
+				"authenticate_doctor_for_ophtalmology_template"
+			],
+			[
+				"redirect",
+				"redirect_to	(ophtalmology_templates_controller.rb)"
+			],
+			[
+				"opht",
+				"ophtalmology_template"
+			],
+			[
+				"redire",
+				"redirect_to	(ophtalmology_templates_controller.rb)"
+			],
+			[
+				"Active",
+				"ActiveRecord	(ophtalmology_templates_controller.rb)"
+			],
+			[
+				"no_right",
+				"no_right_description"
+			],
+			[
+				"no_left",
+				"no_left_description"
+			],
+			[
+				"vitreous",
+				"vitreous_right"
+			],
+			[
+				"vitro",
+				"vitreous_left"
+			],
+			[
+				"fundus",
+				"fundus_left"
+			],
+			[
+				"crysta",
+				"crystaline_right"
+			],
+			[
+				"goinosco",
+				"goinoscopy_right"
+			],
+			[
+				"goinos",
+				"goinoscopy_left"
+			],
+			[
+				"intraocular",
+				"intraocular_pressure_2"
+			],
+			[
+				"intraocu",
+				"intraocular_pressure_left"
+			],
+			[
+				"ac",
+				"ac_bottom_right_value_2"
+			],
+			[
+				"ac_",
+				"ac_bottom_left_value_1"
+			],
+			[
+				"antechamber",
+				"antechamber_right"
+			],
+			[
+				"antecha",
+				"antechamber_left"
+			],
+			[
+				"pinhole",
+				"pinhole_third_value"
+			],
+			[
+				"avcc",
+				"avcc_third_value"
+			],
+			[
+				"avsc",
+				"avsc_third_value"
+			],
+			[
+				"born_of_ter",
+				"born_of_term_description"
+			],
+			[
+				"ailments_during",
+				"ailments_during_pregnancy_treatment"
+			],
+			[
+				"ailments",
+				"ailments_during_pregnancy"
+			],
+			[
+				"eye_sur",
+				"eye_surgery_right"
+			],
+			[
+				"eye",
+				"eye_surgery_left"
+			],
+			[
+				"retinal_deata",
+				"retinal_deatachment_description"
+			],
+			[
+				"retinal_deatach",
+				"retinal_deatachment_treatment"
+			],
+			[
+				"retinal_deat",
+				"retinal_deatachment_right"
+			],
+			[
+				"eyelids",
+				"eyelids_right"
+			],
+			[
+				"ocular",
+				"ocular_movement_version_left"
+			],
+			[
+				"specular",
+				"specular_magnification_right"
+			],
+			[
+				"specular_ma",
+				"specular_magnification_left"
+			],
+			[
+				"cyclople",
+				"cycloplegic_right_value_3"
+			],
+			[
+				"cycloplegic",
+				"cycloplegic_right_value_2"
+			],
+			[
+				"cyclo",
+				"cycloplegic_right_value_1"
+			],
+			[
+				"cyclopleg",
+				"cycloplegic_left_value_2"
+			],
+			[
+				"cycloplegic_left",
+				"cycloplegic_left_value_1"
+			],
+			[
+				"autorefraction_",
+				"autorefraction_right_value_3"
+			],
+			[
+				"autorefraction_ri",
+				"autorefraction_right_value_2"
+			],
+			[
+				"autorefra",
+				"autorefraction_right_value_1"
+			],
+			[
+				"auto",
+				"autorefraction_left_value_3"
+			],
+			[
+				"autorefraction_left_value",
+				"autorefraction_left_value_2"
+			],
+			[
+				"autorefraction_left",
+				"autorefraction_left_value_1"
+			],
+			[
+				"subject",
+				"subjective_right_value_2"
+			],
+			[
+				"subjective_left",
+				"subjective_left_value_3"
+			],
+			[
+				"subjective",
+				"subjective_left_value_2"
+			],
+			[
+				"lensometer_right_value",
+				"lensometer_right_value_2"
+			],
+			[
+				"lensometer_right",
+				"lensometer_right_value_1"
+			],
+			[
+				"lensometer",
+				"lensometer_left_value_3"
+			],
+			[
+				"lensometer_left",
+				"lensometer_left_value_2"
+			],
+			[
+				"patient_glaucoma_",
+				"patient_glaucoma_since"
+			],
+			[
+				"patient_squint",
+				"patient_squint_treatment"
+			],
+			[
+				"patient_hyperopia",
+				"patient_hyperopia_description"
+			],
+			[
+				"patient_my",
+				"patient_myopia_description"
+			],
+			[
+				"patient_trans",
+				"patient_transfution_description"
+			],
+			[
+				"patient_alergies",
+				"patient_alergies_description"
+			],
+			[
+				"patient_ne",
+				"patient_nefropathy_description"
+			],
+			[
+				"patient_arterial",
+				"patient_arterial_hypertension_treatment"
+			],
+			[
+				"patient_diabete",
+				"patient_diabetes_mellitus_treatment"
+			],
+			[
+				"patient_diabe",
+				"patient_diabetes_mellitus_time"
+			],
+			[
+				"family_other",
+				"family_other_ailments_2"
+			],
+			[
+				"family_",
+				"family_other	(schema.rb)"
+			],
+			[
+				"famil",
+				"family_cardiopathy	(schema.rb)"
+			],
+			[
+				"ophta",
+				"ophtalmology_template_params"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"adopt",
+				"adopt_a_dog	(en.yml)"
+			],
+			[
+				"FONT-",
+				"font-family"
+			],
+			[
+				"full",
+				"fullPageWrapper"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"link_",
+				"link_to	create a link	erb"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"lecture",
+				"lecture"
+			],
+			[
+				"getLeme",
+				"getElementsByClassName	(show-challenge.js)"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"edn",
+				"end	only end	erb"
+			],
+			[
+				"label",
+				"label	(new.html.erb)"
+			],
+			[
+				"click",
+				"click_link"
+			],
+			[
+				"g",
+				"grey-50"
+			],
+			[
+				"background",
+				"backgroundHandler"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"lin",
+				"link_to	create a link	erb"
+			],
+			[
+				"IMAGE",
+				"image_tag	create a image	erb"
+			],
+			[
+				"elsif",
+				"elseif	only elseif	erb"
+			],
+			[
+				"li",
+				"link_to	create a link	erb"
+			],
+			[
+				"cha",
+				"challenge"
+			],
+			[
+				"smoothscro",
+				"smoothscroll	(smoothscroll.js)"
+			],
+			[
+				"add",
+				"addEventListener	(show-challenge.js)"
+			],
+			[
+				"clas",
+				"class=\"m	(show.html.erb)"
+			],
+			[
+				"imag",
+				"image_tag	(show.html.erb)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"else",
+				"else	only else	erb"
+			],
+			[
+				"bg-clubin",
+				"bg-clubin-khaki"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"font-a",
+				"font-family"
+			],
+			[
+				"bacg",
+				"background-size"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"menu",
+				"menuSpritesheet"
+			],
+			[
+				"me",
+				"menuSpritesheet"
+			],
+			[
+				"getEle",
+				"getElementsByTagName"
+			],
+			[
+				"gl",
+				"glyphSmall"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 185.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"math ",
+				"Set Syntax: TeX Math"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"Package Manager",
+			"package manager",
+			"Package Control: Install Package Emmet",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Package Control: Install Package"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/img"
+	],
+	"file_history":
+	[
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/salty-1.html",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/salty-2.html",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/salty-4.html",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/node_modules.zip",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/mock.jpg",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/img/spot_nuva.mp4",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/tips.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/scss/tips.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/scss/tip-scroll.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/scss/menu.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/scss/loader.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/scss/intro.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/scss/articles.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/menu.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/js/recipe-scroll.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/tips.html",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/cover.html",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/articles.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/intro.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/css/loader.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/brenvita-revista/js/recipes.js",
+		"/C/Users/PabloEugenio/Desktop/PokemonGo-Map-master/Pokemon-Go-Map.txt",
+		"/C/Users/PabloEugenio/Desktop/index.html",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/ranking.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/records.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/users/gyms.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/db/schema.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/users_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/layouts/application.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/users/records.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/application.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/users/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/config/routes.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/main.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/user-show-gyms.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/admins_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/mygyms_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/touch-handlers.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/records/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/click-handlers.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/records_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/atoms.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/helpers/application_helper.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/rankings.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/timer.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/progress.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/gyms.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/hammer.min.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/hammer-time.min.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/records/location.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/globals.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/no-user-image.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/navbar.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/menu-handler.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/users/shared/_links.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/records/timer.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/custom-attribute-styling/add-gym.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/db/seeds.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/log-in.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/users/sessions/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/google.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/normalize.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/fonts.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/custom-attribute-styling/full-screen-forms.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/Gemfile",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/mygyms/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/_community_user_fields.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/user_profile.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/rankings/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/rankings/rankings.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/rankings_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/photos-display.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/photos.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/rankings.scss~HEAD",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/context-menu.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/posts/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/photos_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/communities.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/comments_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/test/controllers/photos_controller_test.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/_comments.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/forms/forms.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/up-arrow.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/size-thumbnails.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/render-photo.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/communities/edit.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/autocomplete.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/config/environment.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/jquery.upload.widget.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/models/community.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/controllers/communities_controller.rb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/create.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/gyms/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/imagefill.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/imagesloaded.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/shortcut_add-photo.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/stopwatch-01.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/view-gallery.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/shortcut_view-gallery.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/shortcut_stopwatch.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/images/add-photo.svg",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/forms/full-screen-forms.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/config/locales/devise.en.yml",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/resize-handlers.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/_form.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/index.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/routines/show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/application.css",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/mygyms/create.js.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/styles/routines.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/photos/new-photo.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/base/font-sizes.scss",
+		"/C/Users/PabloEugenio/Documents/GitHub/glitch/app/assets/javascripts/form/form.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/javascripts/velocity.js",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/photos/_show.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/comments/_new_comment.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/views/mygyms/new.html.erb",
+		"/C/Users/PabloEugenio/Documents/GitHub/gymapp/app/assets/stylesheets/custom-attribute-styling"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 298.0,
+		"where_history":
+		[
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\brenvita-revista",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\brenvita-revista,-C:\\Users\\PabloEugenio\\Documents\\GitHub\\brenvita-revista\\node_modules",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\brenvita-revista",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\gymapp\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\gymapp\\app",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\gymapp\\app\\assets\\stylesheets",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\gymapp\\app\\assets\\stylesheets\\styles",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\adoptaunperro",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\assets\\stylesheets",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\partials\\navbar",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\users",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\partials\\navbar",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\partials\\navbar",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\Clubin\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\welcome",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\assets\\stylesheets",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\assets\\stylesheets\\flexie",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\users",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views\\users	",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\apptrevete\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\Clubin\\app\\controllers",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\Clubin\\app\\models",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views\\Admins",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views				",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views		",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views	",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views\\printers\\passwords",
+			"C:\\Users\\PabloEugenio\\Documents\\GitHub\\prinket\\app\\views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".jpeg",
+			".png",
+			".jpg",
+			".png",
+			"m:12px",
+			");\n",
+			"show-profile__",
+			"sets",
+			"record",
+			"center",
+			"current_user",
+			"mygym",
+			"interface",
+			"<%",
+			"navbar",
+			"36",
+			"user",
+			"navbar",
+			"touch-action",
+			"touchAction",
+			"cssProps",
+			"default",
+			"defaults",
+			"navbar",
+			"touchMenu",
+			"Rotate",
+			"navbar",
+			"easeOutBack",
+			"72",
+			"translateX: \"-50%\", ",
+			"save",
+			"50%",
+			"p",
+			"notice_container",
+			"you are not ",
+			"\";\n",
+			"404.98",
+			"98",
+			"404.98",
+			"__link",
+			"background",
+			"__link",
+			"-lapse_",
+			"-lapse_hours_r",
+			"-lapse",
+			"-lapse_h",
+			"-",
+			"hours",
+			", loop:true",
+			"360deg",
+			"08",
+			"300",
+			"div",
+			"a",
+			"started",
+			"loop:0",
+			"0",
+			"repeat:true",
+			"255",
+			" $gymapp-darker-red",
+			"4",
+			"8",
+			"4",
+			"134",
+			"8",
+			"16",
+			"140",
+			"280",
+			"150",
+			"300",
+			"4",
+			"8",
+			"h4",
+			"h1",
+			"10",
+			"top",
+			"div",
+			"photo",
+			"user",
+			"AIzaSyDWRO9VQLjrONC-tmxJEyFr1ulGtKLBTiw",
+			"<br/>",
+			"</br>",
+			"<br/>",
+			">\n			<%= link_to \"Edit / Add Members\", edit_community_path(@community) %><br/>\n			<%= link_to \"Destroy\", communities_path(@community), method: :delete, data: {confirm: \"Are you sure? This cannot be undone\"} %><br/>\n		<% end %>",
+			"p",
+			"label",
+			"append",
+			"Éxito",
+			"var",
+			"fields",
+			"p",
+			"p>",
+			"<p>",
+			"this",
+			"<br/>",
+			"gym",
+			"gym.gym.",
+			"compareAddress",
+			"notice.",
+			"fn();",
+			" !== \"undefined\"",
+			"\"",
+			"item",
+			"element",
+			"mygym",
+			"0",
+			"33",
+			"h2",
+			"</br>",
+			"h3",
+			"h6",
+			").find(\"",
+			"600px",
+			"this",
+			".image-containe",
+			"font-size",
+			"h5",
+			"li",
+			"h5",
+			"h2",
+			"gym",
+			"</p>",
+			"<p>",
+			"</p>",
+			"<p>",
+			"3",
+			"info__snippet",
+			"user"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".jpg",
+			"",
+			"url('/assets/",
+			"placeholder: true",
+			"true",
+			"placeholder:",
+			"",
+			": \"\"",
+			"",
+			"%>\n			<div class=\"expedient-underline\"></div>\n",
+			"%>\n<div class=\"expedient-underline\"></div>\n",
+			"%>\n<div class=\"expedient-underline\"></div>",
+			"\n<div class=\"expedient-underline\"></div>",
+			"class=\"double-field\"",
+			".field,\n.single-field",
+			"field",
+			"= @",
+			"",
+			"<%= t",
+			"",
+			":",
+			"",
+			", ",
+			"\n, ",
+			"\n",
+			"doctor",
+			"",
+			", placeholder: :name %>\n",
+			"",
+			",",
+			"",
+			"center",
+			"flexie col l-6 m-8 s-10 major-center minor-center\"",
+			"<%= image_path ",
+			"",
+			".",
+			"",
+			"45deg",
+			"6px",
+			"",
+			"bg-amber",
+			"card bg-amber",
+			"h5 class=\"grey-50\"",
+			"services-overlay flexie major-center minor-center",
+			"services-overlay major-center minor-center",
+			"services-overlay l-11 v-l-11",
+			"sliderCounter",
+			"background-size:40%;",
+			"grid-inner flexie major-center minor-center l-12 ",
+			"grid-inner major-center minor-center l-12 ",
+			"flexie col l-4 v-l-4 major-center minor-center text-center",
+			"light-blue-50",
+			"bg-luxuzz-form",
+			"bg-luxuzz-form	",
+			"bg-light-blue-800 light-blue-200",
+			"bg-luxuzz-grey",
+			"h5",
+			"<%= render \"partials/users/userProfilePicNoName\", c: current_user %>",
+			"<%= render \"partials/users/userProfilePic\", c: current_user %>",
+			"c",
+			"",
+			"l-12",
+			"w-48",
+			"major-between",
+			"w-48",
+			"<div class=\"flexie row l-12\">\n	<%= render \"users/shared/links\" %>\n</div>",
+			"",
+			"-400",
+			"grey",
+			"orange",
+			"red",
+			"light-green",
+			"cyan",
+			"orange",
+			"purple",
+			"light-blue",
+			"yellow",
+			"indigo",
+			"yellow",
+			"light-blue",
+			"purple",
+			"orange",
+			"cyan",
+			"amber",
+			"bg-lime-500",
+			"bg-lime",
+			"bg-grey-400",
+			"link_to(landing_path) do",
+			"flexie major-center minor-center button ",
+			"\"flexie major-center minor-center button ",
+			"\"flexie major-center minor-center ",
+			"",
+			"w-48",
+			"p-xxs",
+			"m-y-xxxs",
+			"",
+			"\"",
+			"class=\"flexie col w-48 s-12 p-t-xs\"",
+			"class=>\"bbg3 l-12\"",
+			"class=\"flexie col w-48 s-12 p-t-xs\"",
+			"",
+			"class=\"flexie col w-48 s-12 p-t-xs\"",
+			"translateY",
+			"save!",
+			"user1)\np.save!",
+			".save!",
+			")\nc",
+			"<div id=\"big-image-container\" class=\"big-image-container-off\">\n	<div class=\"flexie l-12 v-l-12 row major-center minor-center\">\n		<img src=\"\" id=\"big-image\">\n	</div>\n</div>\n<%= render 'challenges' %>\n",
+			"c",
+			"c.",
+			"Público	",
+			"h5",
+			"c",
+			"c.challenge",
+			"h5",
+			"h4",
+			"<img data-sr ",
+			"light",
+			"<p class=\"text-justify\">",
+			"",
+			"class=\"semi-bold hint\"",
+			"<div class=\"flexie col w-48 s-12 p-t-xs\">",
+			"",
+			"<div class=\"flexie col l-6 s-12 p-t-xs\">",
+			"<p class=\"regular primary\">",
+			"<p class=\"regular secondary\">",
+			"<p class=\"regular primary\">",
+			"<label class=\"hint\">"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "brenvita.sublime-project",
+	"replace":
+	{
+		"height": 116.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"usercontroller",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"mainscss",
+				"app\\assets\\stylesheets\\main.scss"
+			],
+			[
+				"usershowhtml",
+				"app\\views\\users\\show.html.erb"
+			],
+			[
+				"profilescss",
+				"app\\assets\\stylesheets\\styles\\user_profile.scss"
+			],
+			[
+				"rankingscss",
+				"app\\assets\\stylesheets\\styles\\ranking.scss"
+			],
+			[
+				"schema",
+				"db\\schema.rb"
+			],
+			[
+				"userscontroller",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"usersshow",
+				"app\\views\\users\\show.html.erb"
+			],
+			[
+				"routes",
+				"config\\routes.rb"
+			],
+			[
+				"rankingssc",
+				"app\\assets\\stylesheets\\styles\\ranking.scss"
+			],
+			[
+				"adminsco",
+				"app\\controllers\\admins_controller.rb"
+			],
+			[
+				"usercontrollerrb",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"controller",
+				"app\\controllers\\mygyms_controller.rb"
+			],
+			[
+				"usercontrl",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"recordsnew",
+				"app\\views\\records\\new.html.erb"
+			],
+			[
+				"mygymscontroller",
+				"app\\controllers\\mygyms_controller.rb"
+			],
+			[
+				"recordscontroller",
+				"app\\controllers\\records_controller.rb"
+			],
+			[
+				"usershow",
+				"app\\views\\users\\show.html.erb"
+			],
+			[
+				"application",
+				"app\\helpers\\application_helper.rb"
+			],
+			[
+				"hammer",
+				"app\\assets\\javascripts\\hammer.min.js"
+			],
+			[
+				"location",
+				"app\\assets\\javascripts\\records\\location.js"
+			],
+			[
+				"globals",
+				"app\\assets\\stylesheets\\base\\globals.scss"
+			],
+			[
+				"applicationjs",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"timerscss",
+				"app\\assets\\stylesheets\\styles\\timer.scss"
+			],
+			[
+				"seeds",
+				"db\\seeds.rb"
+			],
+			[
+				"mains",
+				"app\\assets\\stylesheets\\main.scss"
+			],
+			[
+				"navbar",
+				"app\\assets\\javascripts\\navbar.js"
+			],
+			[
+				"normalize",
+				"app\\assets\\stylesheets\\base\\normalize.scss"
+			],
+			[
+				"usersharedl",
+				"app\\views\\users\\shared\\_links.html.erb"
+			],
+			[
+				"usersession",
+				"app\\views\\users\\sessions\\new.html.erb"
+			],
+			[
+				"fonts",
+				"app\\assets\\stylesheets\\base\\fonts.scss"
+			],
+			[
+				"timer.js",
+				"app\\assets\\javascripts\\records\\timer.js"
+			],
+			[
+				"mygymsform",
+				"app\\views\\mygyms\\_form.html.erb"
+			],
+			[
+				"scss",
+				"app\\assets\\stylesheets\\styles\\timer.scss"
+			],
+			[
+				"recordnew",
+				"app\\views\\records\\new.html.erb"
+			],
+			[
+				"navbars",
+				"app\\assets\\javascripts\\navbar.js"
+			],
+			[
+				"timer",
+				"app\\assets\\stylesheets\\styles\\timer.scss"
+			],
+			[
+				"applicationhtml",
+				"app\\views\\layouts\\application.html.erb"
+			],
+			[
+				"main",
+				"app\\assets\\stylesheets\\main.scss"
+			],
+			[
+				"usersscs",
+				"app\\assets\\stylesheets\\styles\\user_profile.scss"
+			],
+			[
+				"rankingscontr",
+				"app\\controllers\\rankings_controller.rb"
+			],
+			[
+				"userscontroler",
+				"app\\controllers\\users_controller.rb"
+			],
+			[
+				"ranking.c",
+				"app\\assets\\stylesheets\\styles\\ranking.scss"
+			],
+			[
+				"ranking",
+				"app\\views\\rankings\\index.html.erb"
+			],
+			[
+				"rankings/",
+				"app\\views\\rankings\\index.html.erb"
+			],
+			[
+				"users/show",
+				"app\\views\\users\\show.html.erb"
+			],
+			[
+				"recordstimer",
+				"app\\assets\\javascripts\\records\\timer.js"
+			],
+			[
+				"records/new",
+				"app\\views\\records\\new.html.erb"
+			],
+			[
+				"app/assets/rankings",
+				"app\\assets\\stylesheets\\rankings.scss~HEAD"
+			],
+			[
+				"communitiesusers",
+				"app\\views\\communities\\_community_user_fields.html.erb"
+			],
+			[
+				"comments_controller",
+				"app\\controllers\\comments_controller.rb"
+			],
+			[
+				"photos_controller",
+				"app\\controllers\\photos_controller.rb"
+			],
+			[
+				"photos",
+				"test\\controllers\\photos_controller_test.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\PabloEugenio\\Documents\\GitHub\\taxilibre\\taxilibre.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

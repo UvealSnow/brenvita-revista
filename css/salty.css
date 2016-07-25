@@ -191,7 +191,7 @@ p {
   font-weight: 100;
   font-style: normal; }
 .recipe-intro {
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   height: 100vh;
@@ -230,7 +230,7 @@ p {
     border-top: solid 2px #f0fbf8;
     z-index: 3; }
   .recipe-intro .read-more {
-    position: fixed;
+    position: absolute;
     bottom: 24px;
     left: calc(50% - 25px);
     z-index: 2;
@@ -274,7 +274,7 @@ p {
 .recipe {
   height: auto;
   width: 100%;
-  position: fixed;
+  position: relative;
   top: 0;
   left: 0;
   display: -webkit-box;
