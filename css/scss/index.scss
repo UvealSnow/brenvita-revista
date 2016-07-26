@@ -1,0 +1,62 @@
+@import 'reset';
+@import 'fonts';
+#index-background {
+	position:fixed; 
+	bottom:0;
+	left:0;
+	height:50%; 
+	width:100%;
+	background: linear-gradient(180deg, rgba(11, 22, 49, 0) 25%, rgba(11, 22, 49, 0.06) 31.72%, rgba(11, 22, 49, 0.66) 100%);	
+}
+#index {
+	position:absolute; 
+	bottom:0;
+	left:0;
+	height:50%; 
+	width:100%;
+	display:flex;
+	flex-direction:row; 
+	justify-content:flex-start; 
+	align-items:center; 
+	a:first-of-type {
+		margin-left:24px;
+	}
+	a {
+		height:100%; 
+		width:auto; 
+		min-width:75%; 
+		margin-top:24px; 
+		margin-bottom:24px; 
+		margin-right:24px; 
+
+		box-sizing:border-box; 
+		display:flex;  
+		flex-direction:row;
+		justify-content:flex-start; 
+		align-items:center; 
+		flex-shrink:0;
+	}
+	a.section-link	 {
+		height:calc(100% - 48px); 
+		width:calc(75% - 48px); 
+		display:flex; 
+		flex-direction:column; 
+		align-items:center; 
+		justify-content:center; 
+		font-size:36px;
+		flex-grow:0;
+	}
+	a.article-link {
+		height:calc(100% - 48px); 
+		width:auto;
+		min-width:auto;
+		// transform:rotate(90deg);
+		// transform-origin:left top 0;
+		writing-mode: tb-rl;
+		padding:12px;
+		background:#5e6577;
+	}
+	.section-link.tips { background:#a5ecdd; }
+ 	.section-link.salty { background:#8046c1; }
+	.section-link.sweet { background:#FC668d; }
+}

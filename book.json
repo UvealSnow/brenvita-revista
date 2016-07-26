@@ -9,15 +9,16 @@
     "orientation": "vertical",
     "zoomable": false,
 
-    "-baker-background": "#000000",
+    "-baker-background": "#ffffff",
     "-baker-vertical-bounce": false,
-    "-baker-media-autoplay": true,
+    "-baker-media-autoplay": false,
     "-baker-background-image-portrait": "gfx/background-portrait.png",
     "-baker-background-image-landscape": "gfx/background-landscape.png",
     "-baker-page-numbers-color": "#000000",
     "-baker-rendering": "three-cards",
     "-baker-background-image-portrait": "img/page-loading-background.jpg",
-
+    "-baker-start-at-page": 1,
+    "-baker-index-height": 280,
     "contents": [
         "cover.html",
         "intro-brenda.html",
