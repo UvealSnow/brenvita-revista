@@ -173,7 +173,8 @@ body {
     z-index: 1;
     background-size: auto 80%;
     background-repeat: no-repeat;
-    background-position: center bottom; }
+    background-position: center bottom;
+    opacity: 0; }
   #background #overlay {
     background-color: #0b1631;
     background: -webkit-linear-gradient(60deg, #0b1631 0%, rgba(11, 22, 49, 0) 100%);
@@ -207,7 +208,8 @@ body {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
-  z-index: 1; }
+  z-index: 1;
+  opcaity: 0; }
   #intro p {
     width: 100%;
     box-sizing: border-box;
@@ -241,11 +243,18 @@ body {
   padding-right: 36px;
   padding-left: 36px; }
   #links a {
-    height: 36px;
-    width: 36px;
+    height: 64px;
+    width: 64px;
     background-size: 80% auto;
     background-repeat: no-repeat;
-    background-position: center center; }
+    background-position: center center;
+    -webkit-transition: opacity .3s ease;
+            transition: opacity .3s ease; }
+  #links a:hover,
+  #links a:focus {
+    opacity: .86; }
+  #links a:not(:first-of-type) {
+    margin-left: 18px; }
   #links #facebook {
     background-image: url(../img/facebook.svg); }
   #links #twitter {

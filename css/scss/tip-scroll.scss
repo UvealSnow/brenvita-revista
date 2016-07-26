@@ -3,7 +3,7 @@
 @import 'colors';
 
 [data-contents="tips"] { 
-	position: absolute;
+	// position: absolute;
 	top: 100%;
 	left: 0;
 	height: 100vh;
@@ -31,6 +31,8 @@
 		.img-container {
 			height: 40vh;
 			width: 100%;
+			background-size:cover !important; 
+			background-position:center center;
 		}
 		h3 {
 			float: right;
