@@ -29,6 +29,7 @@ body {
 		background-size:auto 80%;
 		background-repeat:no-repeat;
 		background-position: center bottom;
+		opacity:0;
 	}
 	#overlay {
 		// background-color:#fc668d; 
@@ -53,6 +54,7 @@ body {
 	align-items:center; 
 	position:relative; 
 	z-index:1;
+	opcaity:0; 
 	p {
 		width:100%; 
 		box-sizing:border-box; 

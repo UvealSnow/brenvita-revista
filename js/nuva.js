@@ -1,5 +1,7 @@
-var timeline = new TimelineMax;
+window.addEventListener("focus", function() { 
 
+var timeline = new TimelineMax;
+ 
 var $glyph = $("#glyph"); 
 var $text = $("#text"); 
 var $text_image = $("#text img");
@@ -8,33 +10,39 @@ var $info_paragraph = $("#info p");
 var $info_paragraph_split = new SplitText("#info p", {type:"chars"});
 var $info_paragraph_chars = $info_paragraph_split.chars;
 	timeline.add( 
-	TweenMax.from(
+	TweenMax.fromTo(
 		$glyph, 
 		1.7, 
 		{
 			y: 50,
 			opacity: 0,
 			delay: .25,
-			// ease: Back.easeOut.config(5.7)
 			ease: Elastic.easeOut.config(1.5, .3)
+		},{
+			y: 0,
+			opacity: 1
 		}
 	) 
 );
 console.log($text_image.css("width"));
 timeline.add( 
-	TweenMax.to(
+	TweenMax.fromTo(
 		$text, 
 		1, 
 		{
-			css: { maxWidth: parseInt($text_image.css("width")) + 24 },
-			opacity: 1, 
+			css: { maxWidth: 0 },
+			opacity: 0, 
 			delay: .12,
 			ease: Expo.easeOut
+		}, 
+		{
+			css: { maxWidth: parseInt($text_image.css("width")) + 24 },
+			opacity: 1 
 		}
 	) 
 );
 timeline
-	.staggerFrom(
+	.staggerFromTo(
 			$info_paragraph_chars, 
 			.5,
 			{
@@ -42,11 +50,16 @@ timeline
 				y: 4,
 				opacity:0, 
 				ease: Circ.easeOut
+			},
+			{
+				x: 0,
+				y: 0,
+				opacity:1 
 			}, 
 			.025, "+=0"
 		); 
 timeline.add( 
-	TweenMax.from(
+	TweenMax.fromTo(
 		$("#media a"), 
 		1, 
 		{
@@ -54,10 +67,14 @@ timeline.add(
 			opacity: 0, 
 			delay: .12,
 			ease: Expo.easeOut
+		},
+		{
+			y:0,
+			opacity: 1 
 		}
 	) 
 );
-
+});
 // timeline.add( 
 // 	TweenMax.to(
 // 		$info, 

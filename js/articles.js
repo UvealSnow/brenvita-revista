@@ -1,4 +1,4 @@
-$(document).ready(function () {
+window.addEventListener("focus", function() { 
 	
 	function animate () {
 		$("div[data-view='1']").addClass('animation');

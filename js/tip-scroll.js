@@ -1,4 +1,4 @@
-$(document).ready(function () {
+window.addEventListener("focus", function() { 
 	// $('.bg').imagefill();
 	$('.img-container').imagefill();
 	$('#fullpage').fullpage({

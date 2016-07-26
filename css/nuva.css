@@ -216,12 +216,14 @@ p {
         -ms-flex-direction: row;
             flex-direction: row; }
     #nuva #media #facebook {
-      margin-top: 24px; }
+      margin-top: 24px;
+      opacity: 0; }
       #nuva #media #facebook img {
         height: 36px; }
     #nuva #media #instagram {
       margin-top: 24px;
-      margin-left: 36px; }
+      margin-left: 36px;
+      opacity: 0; }
       #nuva #media #instagram img {
         height: 36px; }
 

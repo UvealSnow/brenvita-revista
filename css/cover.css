@@ -182,7 +182,8 @@ body {
   left: 36px;
   font-size: 14px;
   color: white;
-  font-weight: 300; }
+  font-weight: 300;
+  opacity: 0; }
 
 #title {
   font-size: 9vw;
@@ -192,7 +193,8 @@ body {
   width: calc(100% - 72px);
   text-transform: uppercase; }
   #title div {
-    font-weight: 300; }
+    font-weight: 300;
+    opacity: 0; }
 
 #brenvita {
   position: fixed;
@@ -205,6 +207,7 @@ body {
   font-weight: 900;
   z-index: 2; }
   #brenvita div {
-    font-weight: 900; }
+    font-weight: 900;
+    opacity: 0; }
 
 /*# sourceMappingURL=cover.css.map */
